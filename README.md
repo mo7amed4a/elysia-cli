@@ -22,13 +22,13 @@ It automatically generates a **Controller**, **Service**, and **Model** inside o
 Open your terminal at the project root and run:
 
 ```bash
-npx elysiacli module <module-name>
+npx elysia-cli module <module-name>
 ```
 
 Example:
 
 ```bash
-npx elysiacli module auth
+npx elysia-cli module auth
 ```
 
 > This will create the `auth` module with the following files:
@@ -51,7 +51,7 @@ And automatically update `src/index.ts`.
 You can also run:
 
 ```bash
-npx elysiacli
+npx elysia-cli
 ```
 
 You will be prompted with options:
