@@ -1,15 +1,14 @@
 {
-  "name": "elysiacli",
-  "version": "0.0.9",
-  "description": "A simple and flexible authentication plugin for Elysia.js with custom schema validation and JWT support.",
+  "name": "elysia-cli",
+  "version": "0.0.10",
+  "description": "",
   "author": {
     "name": "Mohamed Abdelrahman",
-    "email": "mohamedev.work@gmail.com",
     "url": "https://github.com/mo7amed4a"
   },
   "type": "module",
   "bin": {
-    "elysiacli": "./dist/index.js"
+    "elysia-cli": "./dist/index.js"
   },
   "main": "dist/index.js",
   "module": "dist/index.js",
